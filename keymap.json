@@ -101,5 +101,11 @@
     "bindings": {
       "\\ v s": "pane::SplitRight"
     }
+  },
+  {
+    "context": "(VimControl && !menu)",
+    "bindings": {
+      "\\ p f": "pane::DeploySearch"
+    }
   }
 ]

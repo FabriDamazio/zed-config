@@ -21,6 +21,7 @@
     "edit_prediction_provider": "zed"
   },
   "agent": {
+    "default_profile": "write",
     "single_file_review": true,
     "model_parameters": [],
     "default_model": {
