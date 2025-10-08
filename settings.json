@@ -27,7 +27,7 @@
     "model_parameters": [],
     "default_model": {
       "provider": "ollama",
-      "model": "qwen3:30b-a3b-instruct-2507-q4_K_M"
+      "model": "gpt-oss:latest"
     }
   },
   "vim_mode": true,
@@ -38,6 +38,7 @@
     "light": "One Light",
     "dark": "Catppuccin Mocha"
   },
+  "relative_line_numbers": true,
   "languages": {
     "Elixir": {
       "language_servers": [
